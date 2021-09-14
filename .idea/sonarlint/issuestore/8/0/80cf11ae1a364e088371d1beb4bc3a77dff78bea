@@ -1,0 +1,43 @@
+
+
+java:S1450"]Remove the "mAvatarMaxSize" field and declare it as a local variable in the relevant methods.(ÊÚÜıÿÿÿÿ8›îù‡¾/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(°Êğ¥8ãïù‡¾/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ïàÒëıÿÿÿÿ8ãïù‡¾/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(š†‰Ú8åïù‡¾/
+C
+java:S1905g"&Remove this unnecessary cast to "int".(Ëáò±8ÿïù‡¾/
+H
+java:S1905h"&Remove this unnecessary cast to "int".(Ö³ğóüÿÿÿÿ8Œğù‡¾/
+[
+java:S1068">Remove this unused "MIN_AVATAR_PERCENTAGE_SIZE" private field.(°Êğ¥8¡Ó…ˆ¾/
+`
+java:S1068">Remove this unused "EXTRA_FINAL_AVATAR_PADDING" private field.(ïàÒëıÿÿÿÿ8¢Ó…ˆ¾/
+D
+java:S1068"'Remove this unused "TAG" private field.(š†‰Ú8¢Ó…ˆ¾/
+V
+java:S1068"9Remove this unused "mCustomFinalYPosition" private field.(ğÂğ™8£Ó…ˆ¾/
+[
+java:S1068"9Remove this unused "mCustomStartXPosition" private field.(µÈáÂşÿÿÿÿ8£Ó…ˆ¾/
+\
+java:S1068"?Remove this unused "mCustomStartToolbarPosition" private field.(Ñ¶’£8¤Ó…ˆ¾/
+X
+java:S1068"6Remove this unused "mCustomStartHeight" private field.(øüÍ£úÿÿÿÿ8¤Ó…ˆ¾/
+T
+java:S1068"2Remove this unused "mAvatarMaxSize" private field.(ÊÚÜıÿÿÿÿ8¥Ó…ˆ¾/
+]
+java:S1068";Remove this unused "mFinalLeftAvatarPadding" private field.(„³“Øùÿÿÿÿ8¥Ó…ˆ¾/
+T
+java:S1068"2Remove this unused "mStartPosition" private field.(ˆ’½ıùÿÿÿÿ8¦Ó…ˆ¾/
+b
+java:S2184R"@Cast one of the operands of this integer division to a "double".(Îï”–şÿÿÿÿ8–Õˆ¾/
+]
+java:S2184T"@Cast one of the operands of this integer division to a "double".(ûÆø¥8—Õˆ¾/
+]
+java:S2184a"@Cast one of the operands of this integer division to a "double".(„Ú‚Æ8•ğù‡¾/
+_
+java:S2184c"DCast one of the operands of this subtraction operation to a "float".(Œç8˜Õˆ¾/
+]
+java:S2184y"@Cast one of the operands of this integer division to a "double".(ÖÖ½½8˜Õˆ¾/
